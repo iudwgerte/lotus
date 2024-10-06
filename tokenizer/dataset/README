@@ -1,0 +1,3 @@
+Place the dataset file for tokenizer training in this folder.
+I am using wikitext, especially "wikitext-2-v1/train-00000-of-00001.parquet" for training the tokenizer.
+https://huggingface.co/datasets/Salesforce/wikitext

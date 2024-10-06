@@ -1,0 +1,3 @@
+Place the dataset file for model pretraining in this folder.
+I am using fineweb-edu, especially "CC-MAIN-2024-10/train-00000-of-00020.parquet" for pretraining.
+https://huggingface.co/datasets/HuggingFaceFW/fineweb-edu
